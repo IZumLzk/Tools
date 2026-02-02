@@ -1,4 +1,4 @@
-module tools
+module github.com/IZumLzk/Tools
 
 go 1.24.10
 
